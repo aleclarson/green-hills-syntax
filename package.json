@@ -1,0 +1,8 @@
+{
+  "name": "green-hills-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
